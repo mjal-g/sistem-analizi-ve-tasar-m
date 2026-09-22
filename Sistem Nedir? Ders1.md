@@ -78,7 +78,7 @@ Onun için **sistem = insan + süreç + teknoloji** üçgenidir.
 
 ---
 
-## 5. ÖZETLE – ZİHNİNİZDE KALICI BİR HARİTA
+## 5. ÖZET
 
 - Sistem = Amaca yönelik, etkileşimli parçalar bütünü.
 - Her sistemin alt sistemleri vardır ve bunlar birbirini etkiler.
